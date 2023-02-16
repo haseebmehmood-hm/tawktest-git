@@ -55,6 +55,7 @@ add_action('wp_footer', 'customJsScript');
 function customJsScript() {
   echo '
   <script>
+  console.log("Test");
  	jQuery(document).ready(function($){
 		if( $(".favorite-menu .elementor-column:nth-child(2)").find(".elementor-widget-nav-menu").length !== 0 ){
 			$(".favorite-menu").show();
