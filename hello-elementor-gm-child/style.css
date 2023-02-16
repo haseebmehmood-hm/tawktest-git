@@ -1,0 +1,18 @@
+/*
+Theme Name: Hello Elementor Child (Groovy Menu)
+Theme URI: https://elementor.com/hello-theme/
+Description: A child theme of Hello Elementor with Groovy Menu integration
+Author: Gooni.com
+Author URI: https://grooni.com/
+Version: 1.0.2
+Template: hello-elementor
+*/
+
+/*  If canwas of mega menu show horizontal scroll */
+/*
+.gm-navbar .gm-main-menu-wrapper .mega-gm-dropdown > .gm-dropdown-menu-wrapper {
+    max-width: 100%;
+    margin-left: auto;
+    margin-right: auto;
+}
+*/
